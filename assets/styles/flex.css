@@ -42,6 +42,32 @@
     max-width: 400px;
 }
 
+/* Agenda */
+
+.agenda__lista {
+    display: flex;
+    flex-wrap: wrap;
+    column-gap: 1.5rem;
+    row-gap: 1rem;
+    justify-content: center;
+}
+
+.agenda__item {
+    flex-grow: 1;
+}
+
+/* Rodapé */
+
+.rodape {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+.rodape__logo {
+    align-self: end;
+}
+
 @media screen and (min-width: 720px) {
 
     /* Cabeçalho */
@@ -64,6 +90,11 @@
     .eventos__lista {
         justify-content: end;
     }
+
+    .agenda__lista {
+        justify-content: end;
+    }
+
 }
 
 @media screen and (min-width: 1440px) {

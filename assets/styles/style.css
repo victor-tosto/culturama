@@ -293,7 +293,8 @@ img:hover {
     background-color: var(--cinza-escuro);
     color: white;
     text-transform: uppercase;
-    padding-top: 1rem;
+    padding: 1rem 0;
+    font-family: var(--fonte-secundaria);
 }
 
 .agenda__informacoes h3 {
