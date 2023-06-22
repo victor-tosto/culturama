@@ -52,7 +52,7 @@
 
 ## 📁 Acesso ao projeto
 
-<p>Para visualizar a versão atual do projeto é só<a href=""> "Clicar aqui".</a>🚀</p>
+<p>Para visualizar a versão atual do projeto é só<a href="https://culturama-blush-tau.vercel.app/"> "Clicar aqui".</a>🚀</p>
 
 ## 👨‍💻 Autor
 
