@@ -20,8 +20,10 @@
   <img alt="Status Concluído" src="http://img.shields.io/static/v1?label=STATUS&message=CONCLUIDO&color=GREEN&style=for-the-badge">
 </p>
 
-<img alt="Demonstração da tela mobile do Culturama" src="/assets/img/demo-mobile.png">
-<img alt="Demonstração da tela desktop do Culturama" src="/assets/img/demo-desktop.png">
+<p display="flex" align="center">
+  <img width="20%" alt="Demonstração da tela mobile do Culturama" src="/assets/img/demo-mobile.png">
+  <img width="70%" alt="Demonstração da tela desktop do Culturama" src="/assets/img/demo-desktop.png">
+</p>
 
 <br>
 <br>
